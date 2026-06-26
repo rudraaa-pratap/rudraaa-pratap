@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=2b1f5c&height=150&section=header&text=Rudra%20Pratap&fontSize=50&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%C2%B7%20Backend%20Developer%20%C2%B7%20Blockchain%20Developer&descSize=18&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2b1f5c&height=200&section=header&text=Rudra%20Pratap&fontSize=50&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%C2%B7%20Blockchain%20Developer&descSize=18&descAlignY=65&animation=typing)
 
 </div>
 
@@ -85,7 +85,7 @@ I care about **understanding before using** — no black boxes, no tools stitche
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
 
 </div>
 
