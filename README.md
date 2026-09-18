@@ -89,8 +89,7 @@ I care about **understanding before using** — no black boxes, no tools stitche
 
 <div align="center">
 
-<!-- Temporarily disabled due to API limits -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%" /> -->
+<img src="./profile/trophy.svg" width="100%" />
 
 </div>
 
