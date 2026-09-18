@@ -19,7 +19,7 @@ jobs:
         with:
           username: rudraaa-pratap
           theme: tokyonight
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
